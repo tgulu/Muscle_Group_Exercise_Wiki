@@ -1,2 +1,1 @@
-# Muscle-Exercise-Wiki
-Muscle Group and Exercises WIKI
+# Muscle_Group_Exercise_Wiki
